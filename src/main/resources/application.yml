@@ -1,0 +1,10 @@
+s3:
+  bucket:
+  prefix:
+file:
+  upload-path: C:/demo
+  download-path: C:/s3/download
+aws:
+  region: eu-west-2
+  accessKey: accessKeyValue
+  secretKey: secretKeyValue
